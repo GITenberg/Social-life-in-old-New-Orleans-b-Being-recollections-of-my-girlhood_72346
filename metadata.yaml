@@ -1,5 +1,8 @@
 _repo: Social-life-in-old-New-Orleans-b-Being-recollections-of-my-girlhood_72346
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72346-h/images/cover.jpg
 creator:
   author:
     agent_name: Ripley, Eliza
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55685
     wikipedia: https://en.wikipedia.org/wiki/Eliza_McHatton_Ripley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72346#Social-life-in-old-New-Orleans-b-Being-recollections-of-my-girlhood
 gutenberg_issued: '2023-12-06'
 identifiers:
   gutenberg: '72346'
